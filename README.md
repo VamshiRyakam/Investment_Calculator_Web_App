@@ -16,14 +16,10 @@ A simple and interactive investment calculator web application built using *Reac
 ## 🛠 Tech Stack
 
 - *Frontend:* React (Vite)
-- *Styling:* CSS / Tailwind (if used)
+- *Styling:* CSS / Tailwind 
 - *Deployment:* GitHub Pages / Vercel (optional)
 
 ---
-
-## 📸 Screenshots
-
-Add a screenshot here by uploading an image or linking it:
 
 ```bash
 ![App Screenshot](screenshot.png)
